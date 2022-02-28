@@ -9,4 +9,4 @@ hello,jiangxin
 hello,jiangxin
 hello,jiangxin
 nihao,jiangxin master test
-jiangxin xiugai
+jiangxin xiugai hot-fix test
